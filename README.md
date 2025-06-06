@@ -33,10 +33,7 @@ Após, selecione a opção "w" para abrir na web
 ## Resultado
 
 
-
-https://github.com/user-attachments/assets/9cab22c3-b79c-4afd-9194-e0767ea2ac96
-
-
+https://github.com/user-attachments/assets/8d6bdaac-19c5-4683-89cf-73caae4b22d9
 
 
 ## License
