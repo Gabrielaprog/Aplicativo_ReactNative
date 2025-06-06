@@ -30,6 +30,14 @@ npm expo start
 
 Após, selecione a opção "w" para abrir na web
 
+## Resultado
+
+
+
+https://github.com/user-attachments/assets/9cab22c3-b79c-4afd-9194-e0767ea2ac96
+
+
+
 
 ## License
 
